@@ -1,3 +1,0 @@
-/*
-programming Language c;
-*/

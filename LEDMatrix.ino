@@ -4,7 +4,7 @@
  * 
  * created by: jumail j
  * email: jumailjuraige@gmail.com
- * youtube: //jumail j youtube link;
+ * youtube: https://www.youtube.com/channel/UCdjiWUU1SLCQn52mBozbsrQ
  * 
  * (*) i just revers x,y cordinates;
  * 

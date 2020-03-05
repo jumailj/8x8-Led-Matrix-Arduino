@@ -1,4 +1,4 @@
-/*
+/*[ change extension .c to .ino to open with arduino]
  * program: 8X8 LED matrix With Arduino UNO.
  * date: 21-December-2019
  * 
